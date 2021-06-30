@@ -8,7 +8,7 @@
 </p>
 
 * 🔭 I’m currently working on a mobile app designed with react native
-* 📚 Studying Computer Science at @famaf
+* 📚 Studying Computer Science at [@famaf](https://www.famaf.unc.edu.ar/)
 * 📖 Learning/Interested in javascript and typescript
 * 📫 [jramostod@gmail.com](mailto:jramostod@gmail.com)
 
