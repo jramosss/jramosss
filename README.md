@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ### :gear: Git Analytics
 <p align="center">
@@ -9,8 +9,11 @@
 
 * 🔭 I’m currently working on a mobile app designed with react native
 * 📚 Studying Computer Science at [@famaf](https://www.famaf.unc.edu.ar/)
-* 📖 Learning/Interested in javascript and typescript
-* 📫 [jramostod@gmail.com](mailto:jramostod@gmail.com)
+* 📖 Learning/Interested in javascript, typescript and mobile development
+  
+## Contact
+![My Linkedin Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white) **Click Me!**  
+![My personal mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white) **Click Me**
 
 <!--
 - 👯 I’m looking to collaborate on ...
