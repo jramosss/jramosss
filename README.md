@@ -3,7 +3,7 @@
 ### :gear: Git Analytics
 <p align="center">
   <a href="https://github.com/jramosss/jramosss">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jramosss&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jramosss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 </p>
 
@@ -12,8 +12,8 @@
 * 📖 Learning/Interested in javascript, typescript and mobile development
   
 ## Contact
-![My Linkedin Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white) **Click Me!**  
-![My personal mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white) **Click Me**
+![My Linkedin Profile](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white) [**Click Me!**](https://www.linkedin.com/in/julian-ramos-7a0475174/)  
+![My personal mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white) [**Click Me**](mailto:jramostod@gmail.com)
 
 <!--
 - 👯 I’m looking to collaborate on ...
