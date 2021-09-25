@@ -2,7 +2,7 @@
 
 ### :gear: Git Analytics
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/jramosss/jramosss">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jramosss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
