@@ -8,12 +8,13 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on a [mobile app](https://expo.dev/@chuls/besaints) designed with react native
 - 📚 Studying Computer Science at [@famaf](https://www.famaf.unc.edu.ar/)
-- 📖 Learning/Interested in web and mobile development
+- 🔭 I just launched [my first mobile app](https://github.com/jramosss/besaints) and now i'm looking for new technologies to learn.
+- 📖 While i think what to learn next, i'm learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- 🤔 Interested in working in mobile development
 - I really like and feel confident with these two  
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 - And this are some technologies i'm used to work with  
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -33,7 +34,7 @@
   ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-## Contact
+## 💬 Contact
 
 <a href="https://www.linkedin.com/in/julian-ramos-7a0475174/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
@@ -44,9 +45,3 @@
 <a href="mailto:jramostod@gmail.com">
   <img width=111 height=35 src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
