@@ -2,6 +2,12 @@
 
 ### :gear: Git Analytics
 
+  <p align="center">
+  <a href="https://github.com/jramosss/jramosss">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jramosss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
+
 
 - 🛠️ Backend dev at  [Seenka](https://www.linkedin.com/company/seenka/mycompany/)
 - 📚 Almost system analist! 🎓 [@famaf](https://www.famaf.unc.edu.ar/)
