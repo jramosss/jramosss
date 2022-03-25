@@ -13,7 +13,7 @@
 - 📚 Almost system analist! 🎓 [@famaf](https://www.famaf.unc.edu.ar/)
 - 🔭 Visit [my mobile app](https://github.com/jramosss/besaints)
 - 🤓 Currently learning node.js
-- 🤔 Interested in mobile development and developing backend with node.js
+- 🤔 Interested in backend with Node or Python
 - I really like and feel confident with these two  
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
