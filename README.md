@@ -12,13 +12,8 @@
 - 🛠️ Backend dev at  [Seenka](https://www.linkedin.com/company/seenka/mycompany/)
 - 📚 Almost system analist! 🎓 [@famaf](https://www.famaf.unc.edu.ar/)
 - 🔭 Visit [my mobile app](https://github.com/jramosss/besaints)
-- 🤓 Currently learning node.js
-- 🤔 Interested in backend with Node or Python
-- I really like and feel confident with these two  
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- And this are some technologies i'm used to work with  
+- This are some technologies i'm used to work with  
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
