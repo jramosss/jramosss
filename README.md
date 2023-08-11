@@ -9,8 +9,7 @@
 </p>
 
 
-- 🛠️ Backend dev at  [Seenka](https://www.linkedin.com/company/seenka/mycompany/)
-- 📚 Almost system analist! 🎓 [@famaf](https://www.famaf.unc.edu.ar/)
+- 🛠️ Fullstack Software Engineer at [SumTechLabs](https://sumtechlabs.com/)
 - 🔭 Visit [my mobile app](https://github.com/jramosss/besaints)
 
 - This are some technologies i'm used to work with  
@@ -18,6 +17,8 @@
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 - **But**: ⚡ Fun fact: I really like learning all kind of languages, frameworks and tools.I'm Willing to learn the most of them i can.  
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -32,7 +33,7 @@
 
 ## 💬 Contact
 
-<a href="https://www.linkedin.com/in/julian-ramos-7a0475174/">
+<a href="https://www.linkedin.com/in/julian--ramos/">
   <img width=111 height=30 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
