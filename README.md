@@ -2,17 +2,15 @@
 
 ### :gear: Git Analytics
 
-  <p align="center">
-  <a href="https://github.com/jramosss/jramosss">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jramosss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-</p>
+<a href="https://github.com/jramosss/jramosss">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jramosss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
 
 
 - 🛠️ Fullstack Software Engineer at [SumTechLabs](https://sumtechlabs.com/)
 - 🔭 Visit [my mobile app](https://github.com/jramosss/besaints)
 
-- This are some technologies i'm used to work with  
+- Some of the technologies i'm used to work with  
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -31,7 +29,7 @@
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-## 💬 Contact
+### 💬 Contact
 
 <a href="https://www.linkedin.com/in/julian--ramos/">
   <img width=111 height=30 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
